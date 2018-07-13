@@ -1,4 +1,4 @@
 # Team-project
  
  
- part 1
+Team project:  Wordpress theme
